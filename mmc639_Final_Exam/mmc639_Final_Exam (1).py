@@ -25,6 +25,7 @@ from numpy import mean
 from numpy import std
 from math import floor
 
+# At this time, I import the main function from library.py(which has the protecting key here)
 from library import main 
 
 # In[16]:
@@ -690,8 +691,7 @@ class portfolio(object):
 
 
 # In[27]:
-
-# In[ ]:
+# I delete the main function from this document
 
 
 # A dictionary defining the set of currency pairs we will be pulling data for
